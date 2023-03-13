@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppgaver_om_returverdier", "oppgaver_om_returverdier\oppgaver_om_returverdier.csproj", "{A5658DEC-9E9B-4BA8-9181-4746686E7C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5658DEC-9E9B-4BA8-9181-4746686E7C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5658DEC-9E9B-4BA8-9181-4746686E7C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5658DEC-9E9B-4BA8-9181-4746686E7C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5658DEC-9E9B-4BA8-9181-4746686E7C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C150183-0389-4533-8D87-B50BC2BCD3E7}
+	EndGlobalSection
+EndGlobal
